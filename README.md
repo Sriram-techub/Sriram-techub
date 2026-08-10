@@ -1,460 +1,437 @@
-<!-- ===================== HEADER ===================== -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=E.%20Sriram&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<!-- HERO -->
 
-# 👋 Hey! I'm Sriram
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0f0f,45:8b0000,100:ff0000&text=E.%20SRIRAM&fontSize=55&fontColor=FFD700&animation=fadeIn&fontAlignY=38"/>
 
-### 💻 Aspiring Full Stack Developer
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=700&lines=Information+Technology+Student;JavaScript+%7C+Node.js+%7C+Express.js;MERN+Stack+Learner;DSA+%7C+Problem+Solving;Building+Real-World+Projects" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=900&color=FFD700&center=true&vCenter=true&width=800&lines=THE+DEVELOPER+IS+IN;FULL+STACK+DEVELOPER+IN+TRAINING;JAVASCRIPT+%7C+NODE.JS+%7C+MERN;BUILDING+MY+OWN+MULTIVERSE;CODE.+BUILD.+DEBUG.+REPEAT." />
 
-<br/>
+<br><br>
 
-<a href="https://github.com/Sriram-techub">
-<img src="https://img.shields.io/badge/GitHub-Sriram--techub-181717?style=for-the-badge&logo=github" />
-</a>
+<img src="https://img.shields.io/badge/STATUS-ACTIVELY%20BUILDING-ff0000?style=for-the-badge&labelColor=111111"/>
+<img src="https://img.shields.io/badge/CLASS-DEVELOPER-FFD700?style=for-the-badge&labelColor=111111"/>
+<img src="https://komarev.com/ghpvc/?username=Sriram-techub&style=for-the-badge&color=8b0000&label=VISITORS"/>
 
-<img src="https://komarev.com/ghpvc/?username=Sriram-techub&style=for-the-badge&color=667eea&label=PROFILE+VIEWS" />
+<br><br>
 
-</div>
-
----
-
-<!-- ===================== NAVIGATION ===================== -->
-
-<div align="center">
-
-### 🧭 Explore My Profile
-
-[👨‍💻 About Me](#-about-me) •
-[🛠️ Tech Stack](#️-tech-stack) •
-[📚 Learning](#-currently-learning) •
-[💻 Projects](#-featured-projects) •
-[📊 GitHub](#-github-statistics) •
-[🎯 Goals](#-2026-goals)
-
-</div>
-
----
-
-# 👨‍💻 About Me
-
-> **"I don't want to just learn how to write code.
-> I want to understand what happens underneath it."**
-
-I'm an **Information Technology student at K.S.R. College of Engineering**, working toward becoming a professional **Full Stack Web Developer**.
-
-My current journey is focused on understanding how modern web applications work from end to end:
-
-```text
-                 👤 USER
-                    │
-                    ▼
-              🌐 FRONTEND
-                    │
-                    │ HTTP
-                    ▼
-              ⚙️ BACKEND
-                    │
-                    │ API
-                    ▼
-              🗄️ DATABASE
-                    │
-                    ▼
-              📦 RESPONSE
-                    │
-                    ▼
-                 👤 USER
-```
-
-### 🔎 A little more about me
-
-* 🎓 B.Tech Information Technology student
-* 💻 Aspiring Full Stack Developer
-* 🌱 Currently learning the MERN stack
-* 🧠 Practicing Data Structures & Algorithms
-* 🔧 Interested in backend development
-* 🗄️ Interested in databases and API development
-* 🚀 Building practical projects
-* 🔬 Interested in AI/ML-based real-world applications
-* 🎯 Preparing myself for a professional software-development career
-
----
-
-# 🛠️ Tech Stack
-
-<div align="center">
-
-### 👨‍💻 Programming
-
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js" />
-
-### 🌐 Web Development
-
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,react" />
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
-
-### 🔧 Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-
-</div>
-
----
-
-# 📚 Currently Learning
-
-<div align="center">
-
-### 🚀 My Current Learning Path
-
-```text
-                    JavaScript
-                        │
-                        ▼
-                    Node.js
-                        │
-                        ▼
-                  Express.js
-                        │
-                        ▼
-                    REST API
-                        │
-                        ▼
-                    MongoDB
-                        │
-                        ▼
-                     React
-                        │
-                        ▼
-                  MERN STACK
-```
-
-</div>
-
-### 🟢 Currently focusing on
-
-<details>
-<summary><b>JavaScript</b></summary>
-
-* Variables and data types
-* Functions
-* Arrays and objects
-* Array methods
-* Scope
-* Callbacks
-* Promises
-* `async/await`
-* ES6+
-* Modules
-* Asynchronous programming
-
-</details>
-
-<details>
-<summary><b>Node.js & Backend</b></summary>
-
-* Node.js fundamentals
-* npm
-* Modules
-* HTTP
-* Express.js
-* Routing
-* Middleware
-* REST APIs
-* Request/response lifecycle
-* Error handling
-* Authentication concepts
-
-</details>
-
-<details>
-<summary><b>Databases</b></summary>
-
-* SQL
-* MySQL
-* MongoDB
-* CRUD
-* Database design
-* Application ↔ Database communication
-
-</details>
-
-<details>
-<summary><b>React & MERN</b></summary>
-
-* React fundamentals
-* Components
-* Props
-* State
-* Events
-* API integration
-* Frontend/backend communication
-* Full-stack application architecture
-
-</details>
-
----
-
-# 🧠 DSA & Problem Solving
-
-I'm actively strengthening my problem-solving skills through **Data Structures & Algorithms**.
-
-<div align="center">
-
-| 📦 Data Structures | ⚡ Algorithms / Patterns |
-| ------------------ | ----------------------- |
-| Arrays             | Linear Search           |
-| Strings            | Binary Search           |
-| Stack              | Bubble Sort             |
-| Queue              | Selection Sort          |
-| Linked List        | Merge Sort              |
-| Hashing            | Quick Sort              |
-| Trees              | Two Pointers            |
-| Graphs             | Sliding Window          |
-| Recursion          | Cycle Detection         |
-
-</div>
-
-### 🧩 My problem-solving process
-
-```text
-        📝 Problem
-            │
-            ▼
-    🔍 Understand constraints
-            │
-            ▼
-     🧠 Find the pattern
-            │
-            ▼
-    📦 Choose data structure
-            │
-            ▼
-      ⚙️ Design algorithm
-            │
-            ▼
-      ⏱️ Analyze complexity
-            │
-            ▼
-       💻 Implement
-            │
-            ▼
-       🧪 Test & Debug
-```
-
----
-
-# 💻 Featured Projects
-
-## 🏠 Guest House Booking Website
-
-> A web application for managing guest-house booking operations.
-
-**Tech:** `HTML` `CSS` `JavaScript` `PHP` `SQLite`
-
-### What I worked with
-
-* Frontend UI
-* Forms
-* Backend processing
-* Database communication
-* CRUD operations
-* Local server development
-
----
-
-## ♻️ Waste2Value
-
-> A logistics-oriented platform concept focused on improving waste collection and transportation.
-
-### Core idea
-
-```text
-Waste Generator
-       ↓
-Collection
-       ↓
-Logistics
-       ↓
-Processing
-       ↓
-Value Recovery
-```
-
-The project focuses on using software to improve coordination between waste generation, collection, and logistics.
-
----
-
-## 🏥 Smart Health Surveillance & Early Warning System
-
-> An academic project concept for monitoring and predicting potential water-borne disease outbreaks.
-
-### Technologies / Areas
-
-`IoT` `AI/ML` `Data Collection` `Prediction` `Health Surveillance`
-
-The concept combines sensor data and predictive analysis to support early detection and warning.
-
----
-
-## 🚗 Continuous Driver Authentication & Alcohol Impairment Assessment
-
-> A final-year research project focused on continuous driver authentication and vehicle safety.
-
-### Research areas
-
-```text
-Face Recognition
-       +
-ArcFace
-       +
-Dempster–Shafer Theory
-       +
-Fuzzy Inference
-       +
-Context Awareness
-       ↓
-Driver Safety Decision
-```
-
-The objective is to explore a multi-layer framework that can continuously evaluate driver identity and impairment-related safety conditions.
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sriram-techub&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriram-techub&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sriram-techub&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 📈 My GitHub Journey
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sriram-techub&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
-
-# 🎯 2026 Goals
-
-```text
-████████████████░░░░  JavaScript
-████████████░░░░░░░░  Node.js
-██████████░░░░░░░░░░  Express.js
-████████░░░░░░░░░░░░  MongoDB
-██████░░░░░░░░░░░░░░  React
-██████████░░░░░░░░░░  DSA
-██████░░░░░░░░░░░░░░  Full Stack Projects
-```
-
-### 🚀 Goals
-
-* [ ] Master JavaScript fundamentals
-* [ ] Become comfortable with Node.js
-* [ ] Learn Express.js deeply
-* [ ] Build REST APIs
-* [ ] Learn MongoDB
-* [ ] Learn React
-* [ ] Build complete MERN applications
-* [ ] Improve DSA
-* [ ] Build production-style projects
-* [ ] Learn deployment
-* [ ] Improve Git/GitHub workflow
-* [ ] Contribute to open source
-
----
-
-# 💡 How I Learn
-
-<div align="center">
-
-```text
-             📚 LEARN
-                ↓
-           🧠 UNDERSTAND
-                ↓
-             💻 BUILD
-                ↓
-             💥 BREAK
-                ↓
-            🐛 DEBUG
-                ↓
-            🔧 IMPROVE
-                ↓
-             🚀 BUILD
-              AGAIN
-```
-
-</div>
-
-I believe the best way to learn software development is to combine **conceptual understanding, implementation, debugging, and repeated practice**.
-
----
-
-# 🔥 What I'm Building Toward
-
-```text
-                FULL STACK DEVELOPER
-                         │
-          ┌──────────────┼──────────────┐
-          ▼              ▼              ▼
-       FRONTEND       BACKEND        DATABASE
-          │              │              │
-        React         Node.js        MongoDB
-          │          Express.js        SQL
-          │              │              │
-          └──────────────┼──────────────┘
-                         ▼
-                    REST APIs
-                         │
-                         ▼
-                  AUTHENTICATION
-                         │
-                         ▼
-                    DEPLOYMENT
-                         │
-                         ▼
-               🚀 REAL APPLICATIONS
-```
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/Sriram-techub">
-<img src="https://img.shields.io/badge/GitHub-Sriram--techub-181717?style=for-the-badge&logo=github" />
+<a href="#-the-stark-database">
+<img src="https://img.shields.io/badge/ENTER%20THE%20DATABASE-111111?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=8b0000"/>
 </a>
 
 </div>
 
 ---
 
+# ⚡ THE STARK DATABASE
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                    S T A R K   S Y S T E M                  ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  NAME       : E. SRIRAM                                     ║
+║  ROLE       : DEVELOPER IN TRAINING                          ║
+║  MISSION    : FULL STACK DEVELOPMENT                         ║
+║  POWER      : PROBLEM SOLVING                               ║
+║  WEAPON     : JAVASCRIPT                                    ║
+║  REACTOR    : NODE.JS + EXPRESS                             ║
+║  DATABASE   : SQL + MONGODB                                 ║
+║  STATUS     : ONLINE                                        ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+🎓 Information Technology student at **K.S.R. College of Engineering**
+
+💻 Building toward a career in **Full Stack Development**
+
+🧠 Learning by understanding the system behind the code.
+
+🚀 Currently entering the **MERN universe**.
+
+---
+
+# 🦾 SUIT UP
+
 <div align="center">
 
-### ⭐ If you find something interesting here, explore the repositories!
+### My current armor
 
-### 💻 Keep Learning • Keep Building • Keep Improving 🚀
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,html,css,nodejs,express,react,mysql,mongodb,git,github,vscode,figma" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%"/>
+</div>
+
+<br>
+
+| SYSTEM       | TECHNOLOGY                             |
+| ------------ | -------------------------------------- |
+| 🧠 Core      | Java • Python • C • C++ • JavaScript   |
+| 🎨 Frontend  | HTML • CSS • JavaScript • React        |
+| ⚙️ Backend   | Node.js • Express.js                   |
+| 🗄️ Database | MySQL • SQLite • MongoDB               |
+| 🔧 Arsenal   | Git • GitHub • VS Code • Figma • XAMPP |
+| 📊 Data      | Power BI                               |
+
+---
+
+# 🔥 ARC REACTOR
+
+### The technology powering my journey
+
+```text
+                       ╔══════════╗
+                       ║   ⚡ JS   ║
+                       ╚════╤═════╝
+                            │
+              ┌─────────────┴─────────────┐
+              │                           │
+          ┌───▼────┐                  ┌───▼────┐
+          │NODE.JS │                  │ REACT  │
+          └───┬────┘                  └───┬────┘
+              │                           │
+          ┌───▼────┐                  ┌───▼────┐
+          │EXPRESS │◄────── API ─────►│FRONTEND│
+          └───┬────┘                  └────────┘
+              │
+          ┌───▼───────────────┐
+          │ MONGODB / MYSQL   │
+          └───────────────────┘
+```
+
+**Current power-up:**
+
+`JavaScript` → `Node.js` → `Express` → `MongoDB` → `React` → `MERN`
+
+---
+
+# 🧠 THE AVENGERS INITIATIVE
+
+Every developer needs a team.
+
+Mine currently looks like this:
+
+| AVENGER             | MY VERSION |
+| ------------------- | ---------- |
+| 🦾 Iron Man         | JavaScript |
+| 🛡️ Captain America | Java       |
+| ⚡ Thor              | Node.js    |
+| 🕷️ Spider-Man      | React      |
+| 🧠 Bruce Banner     | Python     |
+| 🏹 Hawkeye          | C / C++    |
+| 🌀 Doctor Strange   | DSA        |
+| 💎 Infinity Stones  | Databases  |
+
+> **The goal isn't to collect technologies.
+> The goal is to know when to use them.**
+
+---
+
+# 💻 THE MULTIVERSE
+
+## 🌐 Universe 01 — Guest House Booking
+
+```text
+🏠 GUEST HOUSE
+      │
+      ├── 👤 User
+      ├── 📅 Booking
+      ├── 📝 Forms
+      ├── ⚙️ Backend
+      └── 🗄️ SQLite
+```
+
+**Stack:** `HTML` `CSS` `JavaScript` `PHP` `SQLite`
+
+A booking application built around frontend interaction, backend processing and database operations.
+
+---
+
+## ♻️ Universe 02 — Waste2Value
+
+```text
+        ♻️ WASTE
+           │
+           ▼
+      📦 COLLECTION
+           │
+           ▼
+       🚚 LOGISTICS
+           │
+           ▼
+       ♻️ PROCESSING
+           │
+           ▼
+       💎 VALUE
+```
+
+A platform concept focused on improving waste collection and logistics.
+
+---
+
+## 🏥 Universe 03 — Smart Health Surveillance
+
+```text
+       📡 IoT SENSORS
+              │
+              ▼
+        📊 DATA
+              │
+              ▼
+          🤖 AI/ML
+              │
+              ▼
+       🚨 EARLY WARNING
+```
+
+An academic project concept combining IoT, data collection and AI/ML prediction for water-borne disease surveillance.
+
+---
+
+## 🚗 Universe 04 — Driver Safety
+
+```text
+        👤 DRIVER
+            │
+      ┌─────┴─────┐
+      ▼           ▼
+ FACE ID      IMPAIRMENT
+      │           │
+      └─────┬─────┘
+            ▼
+       🧠 DECISION
+            │
+            ▼
+       🚘 SAFETY CONTROL
+```
+
+Final-year research concept involving:
+
+`ArcFace` • `Dempster–Shafer Theory` • `Fuzzy Inference` • `Continuous Authentication` • `Alcohol Impairment Assessment`
+
+---
+
+# 🧩 THE MULTIVERSE PROTOCOL
+
+My development process:
+
+```text
+        💡 IDEA
+          │
+          ▼
+      🔍 RESEARCH
+          │
+          ▼
+       🧠 LEARN
+          │
+          ▼
+       💻 BUILD
+          │
+          ▼
+       💥 BREAK
+          │
+          ▼
+       🐛 DEBUG
+          │
+          ▼
+       ⚙️ IMPROVE
+          │
+          ▼
+       🚀 DEPLOY
+```
+
+**No magic. Just iterations.**
+
+---
+
+# 🧠 DSA TRAINING ROOM
+
+Currently sharpening:
+
+```text
+ARRAYS       ████████████████░░
+STRINGS      ███████████████░░░
+SEARCHING    ███████████████░░░
+SORTING      ██████████████░░░░
+STACK        █████████████░░░░░
+QUEUE        ████████████░░░░░░
+HASHING      ███████████░░░░░░░
+TREES        █████████░░░░░░░░░
+GRAPHS       ████████░░░░░░░░░░
+```
+
+### Current weapons
+
+`Binary Search` · `Merge Sort` · `Quick Sort` · `Hashing` · `Two Pointers` · `Sliding Window` · `Stack` · `Cycle Detection`
+
+---
+
+# 🛰️ CURRENT MISSION
+
+```text
+╔══════════════════════════════════════════════╗
+║               MISSION 2026                   ║
+╠══════════════════════════════════════════════╣
+║                                              ║
+║  ✓ Strengthen JavaScript                    ║
+║  → Master Node.js                            ║
+║  → Build REST APIs                           ║
+║  → Learn MongoDB                             ║
+║  → Learn React                               ║
+║  → Build MERN applications                   ║
+║  → Improve DSA                               ║
+║  → Deploy real applications                 ║
+║  → Contribute to open source                ║
+║                                              ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+# 📊 COMMAND CENTER
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sriram-techub&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FFD700&icon_color=FF0000&text_color=FFFFFF" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriram-techub&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FFD700&text_color=FFFFFF" height="180"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sriram-techub&theme=dark&hide_border=true&background=0D0D0D&ring=FF0000&fire=FFD700&currStreakLabel=FFD700" />
+
+</div>
+
+---
+
+# 🕸️ CONTRIBUTION WEB
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sriram-techub&bg_color=0D0D0D&color=FFD700&line=FF0000&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+# 🧪 CLASSIFIED FILES
+
+<details>
+<summary>🔐 Click to open — Developer Mode</summary>
+
+<br>
+
+### What am I currently trying to understand?
+
+Not just:
+
+```javascript
+app.get("/users", ...)
+```
+
+But what actually happens:
+
+```text
+Browser
+   ↓
+HTTP Request
+   ↓
+Network
+   ↓
+Node.js
+   ↓
+Express Router
+   ↓
+Middleware
+   ↓
+Controller
+   ↓
+Database
+   ↓
+Response
+   ↓
+Browser
+```
+
+That's the level of understanding I'm working toward.
+
+</details>
+
+<details>
+<summary>🧬 Click to open — Origin Story</summary>
+
+<br>
+
+Started with programming fundamentals and gradually moved toward web development, databases, backend concepts and DSA.
+
+The current mission:
+
+**Become capable of taking an idea → designing it → coding it → connecting the database → deploying it.**
+
+</details>
+
+<details>
+<summary>🌌 Click to open — Future Universe</summary>
+
+<br>
+
+```text
+MERN
+ ↓
+System Design
+ ↓
+Cloud
+ ↓
+DevOps
+ ↓
+Scalable Applications
+ ↓
+Open Source
+```
+
+One step at a time.
+
+</details>
+
+---
+
+# 🎬 AFTER-CREDITS SCENE
+
+<div align="center">
+
+### "Part of the journey is the end."
+
+But this one is just beginning.
+
+<br>
+
+```text
+             CODE
+              ↓
+          CREATE
+              ↓
+          DESTROY
+              ↓
+          REBUILD
+              ↓
+           LEARN
+              ↓
+           REPEAT
+```
+
+<br>
+
+### ⚡ KEEP BUILDING.
+
+<a href="https://github.com/Sriram-techub">
+
+<img src="https://img.shields.io/badge/ENTER%20MY%20GITHUB%20UNIVERSE-FF0000?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:ff0000,50:8b0000,100:0f0f0f&section=footer"/>
 
 </div>
